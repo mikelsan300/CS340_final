@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "SwolyFit",
+    "version": "1.0.0",
+    "description": "SwolyFit is an AI trainer that assigns a workout plan for you given your height, weight, and desired workout intensity.",
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "icon.png"
+    },
+    "permissions": [
+      "activeTab"
+    ],
+    "icons": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  }
+  
