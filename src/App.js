@@ -41,7 +41,7 @@ function App() {
             <input type="number" name="age" min="0" max="100" value={userInput.age} onChange={handleChange} />
           </label>
           <label>
-            Height (cm):
+            Height (m):
             <input type="number" name="height" min = "1" step="0.1" value={userInput.height} onChange={handleChange} />
           </label>
           <label>
